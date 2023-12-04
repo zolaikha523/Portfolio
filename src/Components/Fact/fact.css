@@ -1,0 +1,64 @@
+/*--------------------------------------------------------------
+# Facts
+--------------------------------------------------------------*/
+:root{
+  --count-up-number-color:#050d18;
+  --count-box-p-color:#122f57;
+  --count-box-a-color:#122f57;
+  --count-box-a-hover-color:#1f5297;
+}
+[data-theme='dark'] {
+  --count-up-number-color:#ffffff;
+  --count-box-p-color:#a17204;
+  --count-box-a-color:#e9c163;
+  --count-box-a-hover-color:#dd9f0f;
+}
+.facts {
+    padding-bottom: 30px;
+  }
+  
+  .facts .count-box {
+    padding: 30px;
+    width: 100%;
+  }
+  
+  .facts .count-box i {
+    display: block;
+    font-size: 44px;
+    color: var(--active-color);
+    float: left;
+    line-height: 0;
+  }
+  
+  .facts .count-box .CountUp-number {
+    font-size: 48px;
+    line-height: 40px;
+    display: block;
+    font-weight: 700;
+    color: var(--count-up-number-color);
+    margin-left: 60px;
+  }
+  
+  .facts .count-box p {
+    padding: 15px 0 0 0;
+    margin: 0 0 0 60px;
+    font-family: "Raleway", sans-serif;
+    font-size: 14px;
+    color: var(--count-box-p-color);
+  }
+  
+  .facts .count-box a {
+    font-weight: 600;
+    display: block;
+    margin-top: 20px;
+    color: var(--count-box-a-color);
+    font-size: 15px;
+    font-family: "Poppins", sans-serif;
+    transition: ease-in-out 0.3s;
+  }
+  
+  .facts .count-box a:hover {
+    color: var(--count-box-a-hover-color);
+  }
+  
+  

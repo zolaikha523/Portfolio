@@ -1,0 +1,34 @@
+:root{
+    --social-links-bg:#212431;
+    --social-link-margin:0;
+    --social-link-color:#fff;
+
+}
+[data-theme='dark']{
+    --social-links-bg:#25252a;
+    --social-link-margin:-30px;
+    --social-link-color:#fff;
+}
+
+  .social-links a {
+    font-size: 18px;
+    display: inline-block;
+    background: var(--social-links-bg);
+    color: var(--social-link-color);
+    line-height: 1;
+    padding: 8px 0;
+    margin-right: 4px;
+    border-radius: 50%;
+    text-align: center;
+    width: 36px;
+    height: 36px;
+    transition: 0.3s;
+    margin-top: var(--social-link-margin);
+  }
+  
+ .social-links a:hover {
+    background: var(--active-color);
+    color: #fff;
+    text-decoration: none;
+  }
+ 

@@ -1,0 +1,126 @@
+/*--------------------------------------------------------------
+# Skills
+--------------------------------------------------------------*/
+:root{
+  --span-color:#050D18;
+}
+[data-theme='dark']{
+  --span-color:#868162;
+}
+.skills .progress {
+    height: 60px;
+    display: block;
+    background: none;
+    border-radius: 0;
+  }
+  
+  .skills .progress .skill {
+    padding: 0;
+    margin: 0 0 6px 0;
+    text-transform: uppercase;
+    display: block;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+    color: var(--span-color)
+  }
+  
+  .skills .progress .skill .val {
+    float: right;
+    font-style: normal;
+  }
+  
+  .skills .progress-bar-wrap {
+    background: #dce8f8;
+    height: 10px;
+  }
+  
+  .skills .progress-bar {
+    height: 10px;
+    background-color: var(--active-color);
+    width: 0px;
+  
+  }
+  .skills .progress-bar.animate1 {
+   
+    animation: html 1s ease-in-out forwards;
+    animation-duration: 1s;
+    animation-delay: 0s;
+  }
+  @keyframes html{
+      0%{
+          width:0;
+      }
+      100%{
+        width: 100%;
+      }
+    }
+  .skills .progress-bar.animate2 {
+    animation: css  1s ease-in-out forwards;
+    animation-duration: 1s;
+    animation-delay: 0s;
+    }
+   @keyframes css{
+     0%{
+            width:0;
+       }
+     100%{
+            width: 90%;
+       }
+    }
+    .skills .progress-bar.animate3 {
+        animation: javascript  1s ease-in-out forwards;
+        animation-duration: 1s;
+        animation-delay: 0s;
+        }
+    @keyframes javascript{
+         0%{
+                width:0;
+           }
+         100%{
+                width: 75%;
+           }
+    }
+    .skills .progress-bar.animate4 {
+        animation:php 1s ease-in-out forwards;
+        animation-duration: 1s;
+        animation-delay: 0s;
+        }
+    @keyframes php{
+         0%{
+                width:0;
+           }
+         100%{
+                width: 55%;
+           }
+    }
+    .skills .progress-bar.animate5 {
+        animation: react  1s ease-in-out forwards;
+        animation-duration: 1s;
+        animation-delay: 0s;
+        }
+    @keyframes react{
+         0%{
+                width:0;
+           }
+         100%{
+                width: 80%;
+           }
+    }
+    .skills .progress-bar.animate6 {
+        animation:  bootstrap 1s ease-in-out forwards;
+        animation-duration: 1s;
+        animation-delay: 0s;
+        }
+    @keyframes bootstrap{
+         0%{
+                width:0;
+           }
+         100%{
+                width: 90%;
+           }
+    }
+
+            
+            
+            
+        

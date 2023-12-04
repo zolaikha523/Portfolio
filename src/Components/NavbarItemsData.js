@@ -1,0 +1,35 @@
+const navbarItemsData = [
+    {
+        href:"#hero",
+        currentPos1:0,
+        currentPos2:650,
+        emojeClassName:"bx bx-home",
+    },
+    {   href:"#about",
+        currentPos1:650,
+        currentPos2:1298,
+        emojeClassName:"bx bx-user",
+    },
+    {  href:"#resume",
+       currentPos1:2100,
+       currentPos2:3000,
+       emojeClassName:"bx bx-file-blank",
+    },
+    {  href:"#portfolio",
+       currentPos1:3000,
+       currentPos2:4036,
+       emojeClassName:"bx bx-book-content",
+    },
+    {  href:"#features",
+       currentPos1:4036,
+       currentPos2:4300,
+       emojeClassName:"bx bx-server",
+    },
+    {  href:"#contact",
+       currentPos1:4970,
+       currentPos2:5924,
+       emojeClassName:"bx bx-envelope",
+      
+    }
+  ];
+  export default navbarItemsData;

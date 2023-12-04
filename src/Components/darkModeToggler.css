@@ -1,0 +1,79 @@
+:root{
+    --gradiant-color:rgb(51, 181, 241);
+    --second-gradiant-color:#058ece;
+    --label-margin:75px;
+}
+[data-theme='dark'] {
+    --gradiant-color:#ffcc89;
+    --second-gradiant-color:#d8860b;
+}
+
+.input-label{
+ width:53px;
+ height: 25px;
+ position: relative;
+ display: block;
+ background: #d8d6d6;
+ border-radius: 200px;
+ box-shadow: 0px 5px 15px rgba(0,0,0, 0,4) inset 0px -5px 15px rgba(255,255,255, 0,4);
+ cursor:pointer;
+ transition: 0.3s;
+ margin: 0 auto;
+ 
+}
+.input-label:after{
+    content: "";
+    width:23px;
+    height: 23px;
+    position: absolute;
+    background: linear-gradient(180deg,var(--gradiant-color),var(--second-gradiant-color));
+    border-radius:50px;
+    box-shadow: 0px 5px 10px rgba(0,0,0, 0,2);
+    transition: 0.3s;
+    left: 2px;
+    top: 1px;
+}
+input{
+    height: 0;
+    width: 0;
+    visibility: hidden;
+}
+input:checked + label{
+    background: #242424;
+}
+input:checked + label:after{
+    left: 50px;
+    transform: translatex(-100%);
+    background: linear-gradient(180deg,#777,#3a3a3a);
+}
+label:active:after{
+    width: 60px;
+}
+.input-label i{
+    position: absolute;
+    width: 25px;
+    top: 2px;
+    left: 1px;
+    z-index: 100;
+    color: #fff;
+    margin-left:6px;
+}
+.input-label i#sun{
+    fill:#fff;
+    transition: 0.3s;
+}
+.input-label i#moon{
+    left:26px;
+    fill:#848080;
+    transition: 0.3s;
+    color: #242424;
+}
+.input-label:checked + label i#sun{
+    fill:#848080;  
+}
+.input-label:checked + label i#moon{
+    fill:#fff;  
+}
+
+
+

@@ -1,0 +1,201 @@
+{
+    "navbar":{
+        "text1":"Maison",
+        "text2":"À propos",
+        "text3":"CV",
+        "text4":"Portefeuille",
+        "text5":"Caractéristiques",
+        "text6":"Contact"
+    },
+    
+    "header":{
+        "title":"Zolaikha Noorzai"
+    },
+
+    "hero":{
+        "title":"Zolaikha Noorzai",
+        "string1":"Designer",
+        "string2":"Développeuse",
+        "string3":"Freelance",
+        "string4":"Photographe",
+        "p":"Je suis"
+    },
+
+    "about":{
+        "title":"À propos",
+        "para":"Je m'appelle Zolaikha, je suis étudiante en Informatique au Département Réseaux. J'étudie actuellement le web en CTI et j'ai de bonnes compétences dans le domaine du mariage et je peux travailler en freelance.",
+        "heading3":"Concepteur UI/UX",
+        "headingEm":"Développeur web.",
+        "paraItalic":"Ce sont mes informations sur mon anniversaire, mon site Web, mon téléphone, ma ville et bien d'autres informations personnelles.",
+        "information":"Designer hautement qualifié et créatif avec 3 ans d'expérience dans le domaine de la conception Web. Maîtrise de l'utilisation de divers logiciels et techniques de conception pour créer des conceptions visuellement attrayantes et percutantes. Adepte de comprendre les besoins des clients et de les traduire en concepts uniques et innovants. Engagé à fournir un travail de qualité dans les délais. À la recherche d'une opportunité d'apporter mon expertise et d'améliorer les visions de conception d'une organisation dynamique.",
+        "p1":"Âge:",
+        "info1":"23",
+        "p2":"Degré:",
+        "info2":"célibataire:",
+        "p3":"PhEmailone:",
+        "info4":"Disponible:",
+        "p4":"Free-lance:",
+        "info3":"zolaikhanoorzai11@gmail.com"
+
+    },
+    "RightList":{
+        "p1":"Anniversaire:",
+        "info1":"4 mai 2000",
+        "p2":"Site web:",
+        "info2":"www.portfolio.com",
+        "p3":"Téléphone:",
+        "info3":"0792882715",
+        "p4":"Ville:",
+        "info4":"Hérat, Afghanistan"  
+     },
+    "fact":{
+        "title":"Faits", 
+        "para":"Dans cette section, je décris brièvement mes réalisations, les projets sur lesquels j'ai travaillé, les heures de travail qui représentent mon expérience de travail dans le domaine de la programmation, ainsi que les personnes qui travaillent dur et qui réussissent dans mon domaine, et j'ai une relation avec eux.J’ai précisé.",
+        "p1":"mes réalisations en informatique",
+        "p2":"nombre de projets réalisés",
+        "p3":"les heures où j'ai travaillé",
+        "p4":"travailleur acharné que je connais",
+        "heading1":"réalisations",
+        "heading2":"Projets",
+        "heading3":"Heures d'assistance",
+        "heading4":"Travailleurs acharnés"
+    },
+    "skills":{
+        "title":"Compétences",
+        "para":"Dans cette section, j'ai ajouté les compétences que j'ai dans la section développement web. Bien sûr, j'ai d'autres compétences dans des sections telles que ICDL, mais je les ai empêchées d'être mentionnées sur ce site car j'ai créé ce site spécialement pour le web. développement."
+
+    },
+    "resume":{
+        "title":"CV",
+        "para":"Dans cette section, j'ai expliqué des informations sur moi-même, dans quelles universités j'ai étudié et quel département j'ai étudié, ainsi que mon expérience professionnelle et dans quel département j'ai travaillé, et un certificat avec réussite et moyenne élevée. J'ai obtenu qu'en général c'est un extrait de mon CV",
+        "h4":"Zolaikha Noorzai",
+        "paraEm":"Concepteur Web innovant et respectueux des délais, avec plus de 3 ans d'expérience dans la conception et le développement de matériel de marketing numérique/imprimé centré sur l'utilisateur, du concept initial au livrable final et soigné.",
+        "h3":"Résumé",
+        "adress":"Nambar Yak, Hérat, Afghanistan",
+        "phone":"0792882715",
+        "resumeTitle1":"Éducation",
+        "resumeTitle2":"Expérience professionnelle"
+    },
+     "resumeData1":{
+        "hfour1":"Licence en informatique à l'Université polytechnique de Kaboul",
+        "hfive1":"2019 - 2020",
+        "title1":"Université d'ingénierie de Kaboul, Afghanistan",
+        "p1":"J'ai pu terminer avec succès deux années de mes études au département d'ingénierie des réseaux de cette université avec de nombreux résultats et obtenir de bonnes notes.",
+        "hfour2":"Licence en informatique à l'Université d'Herat",
+        "hfive2":"2020 - recent",
+        "title2":"université à Herat, Afghanistan",
+        "p2":"J'ai réussi à terminer avec succès 1 an de mes études dans le département d'ingénierie des réseaux de cette université avec de nombreux résultats et à obtenir une note moyenne de 87%, et j'ai également été sélectionné comme stagiaire chez IT GEEKS de cette université."
+    },
+    "resumeData2":{
+        "listFor1":"Stagiaire chez CTI ",
+        "hfive1":"2021 - Présent",
+        "p1":"Coder pour inspirer",
+        "listOne1":"L'équipe travaille sur un projet de magasin de voitures et travaille avec d'autres étudiants sur leurs problèmes.",
+        "listTow1":"travailler sur un projet de portfolio comme examen de mi-session",
+        "listTree1":"Travailler dur pour apprendre des problèmes React complexes et mener à bien des exercices et des projets.",
+        "listFour1":"réussir les quiz et les examens",
+        "hfour2":"étudiant à ICDL Online Essentials ",
+        "hfive2":"2021 - Présent",
+        "p2":"Développement social et recherche pour tous aux États-Unis",
+        "listOne2":"obtenu avec succès un certificat avec une moyenne de 93% du programme Navigateur & Outlook",
+        "listTow2":"obtenu avec succès un certificat avec une moyenne de 98% du programme Word",
+        "listTree2":"obtenu avec succès un certificat avec une moyenne de 90% du programme Excel",
+        "listFour2":"obtenu avec succès un certificat avec une moyenne de 100% du programme Powerpoint"
+    },
+    "portfolio":{
+        "title":"Portefeuille",
+        "para":"J'ai travaillé sur de nombreux petits et grands projets destinés à la pratique et à l'apprentissage et j'ai mentionné six projets sur lesquels j'ai travaillé professionnellement, et j'ai partagé le lien détaillé et le lien GitHub dans leur modal de détails."
+    },
+    "portfolioDetail":{
+        "description1":"Portfolio est un modèle HTML de CV personnel et de portfolio moderne. C'est un design créatif, minimal et épuré. iPortfolio peut être utilisé à de nombreuses fins, à commencer par des portfolios minimaux, des indépendants, des graphistes, des illustrateurs, des photographes et bien d'autres pour présenter leur travail, leurs projets, leurs produits, leurs clients et proposer des services. Portfolio est entièrement réactif et s'affiche parfaitement sur tous les écrans d'appareils, offrant la meilleure expérience utilisateur à l'utilisateur final. Il est construit en utilisant la dernière version de Bootstrap, HTML5, CSS3, jQuery et . Tous les fichiers et le code sont bien organisés et bien documentés. Vous pouvez personnaliser rapidement et facilement le modèle en fonction de vos besoins.", 
+        "description2":"Eterna est un superbe modèle de site Web d'amorçage réactif, conçu par des professionnels pour tout type de site Web. Eterna est codé avec soin, tous les fichiers modèles sont organisés et bien structurés, il est donc très personnalisable et convivial pour les développeurs/débutants. Plusieurs pages sont incluses dans ce modèle avec de nombreuses sections prêtes à l'emploi. Eterna est un modèle parfait pour les startups d'entreprise, les studios Web, les agences numériques, le marketing, les sociétés de design, les entreprises d'entrepreneurs technologiques, etc. Eterna est 100 % réactif et s'adapte parfaitement à n'importe quel appareil, avec une conception de mise en page créative, propre, unique et moderne !", 
+        "description3":"Medilab est un modèle de site Web médical créatif et moderne. Il convient aux industries médicales et de santé telles que les médecins, les cliniques, les dentistes, les cabinets dentaires, les dentistes, les dentistes, les médecins, les établissements de santé, les hôpitaux et autres sociétés de services médicaux et de santé. Il est livré avec toutes les fonctionnalités essentielles pour créer un superbe site Web médical. MediLab est entièrement réactif et fonctionne sur toutes les tailles d'écran et tous les appareils tels que les téléphones mobiles, les tablettes, les ordinateurs portables, etc. Il est facile à personnaliser et à modifier. Tous les fichiers sont bien structurés, le code source est propre et documenté. La version professionnelle du modèle est également livrée avec un script de formulaire de rendez-vous PHP/Ajax entièrement fonctionnel, qui envoie le formulaire de rendez-vous soumis dans votre boîte de réception e-mail.", 
+
+        "description4":"Portfolio est un modèle HTML de CV personnel et de portfolio moderne. C'est un design créatif, minimal et épuré. iPortfolio peut être utilisé à de nombreuses fins, à commencer par des portfolios minimaux, des indépendants, des graphistes, des illustrateurs, des photographes et bien d'autres pour présenter leur travail, leurs projets, leurs produits, leurs clients et proposer des services. Portfolio est entièrement réactif et s'affiche parfaitement sur tous les écrans d'appareils, offrant la meilleure expérience utilisateur à l'utilisateur final. Il est construit en utilisant la dernière version de Bootstrap, HTML5, CSS3, jQuery et SASS. Tous les fichiers et le code sont bien organisés et bien documentés. Vous pouvez personnaliser rapidement et facilement le modèle en fonction de vos besoins.", 
+
+        "description5":"Creative est un thème Bootstrap d'une page destiné aux créatifs, aux petites entreprises et à d'autres utilisations polyvalentes. Un style de conception moderne et plat fonctionne à l'unisson avec des fonctionnalités et des plugins riches, faisant de ce thème un excellent passe-partout pour votre prochain projet basé sur Bootstrap !",
+
+        "description6":"Maxim est un modèle de site Web d'une page bootstrap plat, moderne et élégant. Il convient aux indépendants, aux agences, aux sites Web d'entreprise tels que les conseillers financiers, les comptables, les cabinets de conseil, les assurances, les prêts, les aides fiscales, les créatifs pour présenter leur profil, leurs travaux et leurs services. Maxim construit avec le dernier cadre d'amorçage réactif, le dernier style de tendance et livré avec de nombreuses fonctionnalités impressionnantes. Tous les fichiers et le code sont bien organisés et bien documentés. Vous pouvez rapidement et facilement personnaliser et affiner le modèle pour créer le site Web de vos rêves. Maxim est entièrement réactif et fonctionne parfaitement sur tous les appareils et tailles d'écran.",
+        "Category":"Catégorie",
+        "ProjectName":"nom du projet",
+        "ProjectDate":"Date du projet",
+        "projectUrl":"URL du projet",
+        "ProjectTitle":"Ceci est un exemple de détail de portefeuille",
+        "projectInfo":"Renseignements sur le projet"
+
+    },
+    "feature":{
+        "title":"Caractéristiques",
+        "para":"chaque site Web créé possède des fonctionnalités, ces fonctionnalités peuvent être très importantes pour attirer les utilisateurs et faciliter l'interaction des utilisateurs avec le site Web.",
+        "iconboxTitle1":"UX et UI exceptionnels",
+        "iconboxDescrition1":"Une expérience utilisateur (UX) et une conception d'interface utilisateur (UI) brillantes font partie des règles et principes de conception Web les plus importants. Les grandes entreprises prennent en compte l’expérience finale de l’utilisateur dès le début du processus de conception Web.",
+        "iconboxTitle2":"Belle performance",
+        "iconboxDescrition2":"Ce qui se passe dans les coulisses est tout aussi important que ce que voient les utilisateurs, c'est pourquoi donner la priorité aux performances est l'une des meilleures pratiques de conception Web les plus essentielles à suivre et nos sites Web ont une Profarmance élevée.",
+        "iconboxTitle3":"objectif clair",
+        "iconboxDescrition3":"Sans objectif clair, votre site Web échouera. Et lorsque nous parlons d'objectif, nous parlons en réalité de l'intention de l'utilisateur. Et les sites Web conçus dans un but précis sont les plus utiles.",
+        "iconboxTitle4":"Contenu de qualité",
+        "iconboxDescrition4":"La qualité de votre site Web dépend de son contenu. Les meilleurs sites Web publient du contenu centré sur l'utilisateur, conçu principalement pour leurs lecteurs, et non pour le référencement. Et nos sites Web disposent de cette fonctionnalité.",
+        "iconboxTitle5":"Meilleur temps de chargement",
+        "iconboxDescrition5":"Le temps de chargement est l’une des autres caractéristiques des sites Web, car si le site Web prend beaucoup de temps à se charger, l’utilisateur risque de ne plus vouloir le revoir. par conséquent, l’une des caractéristiques du site Web que nous créons est qu’il prend moins de temps à charger.",
+        "iconboxTitle6":"Optimisation multi-appareils",
+        "iconboxDescrition6":"Le trafic mobile représente désormais plus de la moitié du trafic Internet total. C'est pourquoi votre site Web doit être optimisé sur tous les appareils, notamment les écrans de bureau, mobiles et tablettes."
+
+    },
+    "testimonials":{
+        "title":"Témoignages",
+        "para":"Frend et les gens que je connais ont mentionné leurs fondus en arrière, leur position et leurs images dans cette section. et ces messages sont très importants pour moi, et ces personnes m'ont soutenu dans tous les aspects de ma vie et je les remercie. et aussi j'utiliserai leur expérience dans ma vie professionnelle personnelle et",
+        "name1":"Ehsan Ehrari",
+        "feedback1":"Travailler avec Zalaikha a été un plaisir absolu. Son dévouement et son travail acharné les ont vraiment distingués en tant qu'étudiante exceptionnelle. Elle fait constamment preuve d’une solide éthique de travail, de compétences exceptionnelles en résolution de problèmes et d’une passion pour l’apprentissage vraiment louable. Zalaikha aborde les défis avec enthousiasme et une attitude positive, ce qui rend sa contribution inestimable à l'environnement d'apprentissage. Je suis convaincu qu'elle continuera à exceller et à réaliser de grandes choses à l'avenir. C'est un privilège de compter Zalaikha au sein de notre communauté universitaire.",
+        "name2":"Nadia Jami",
+        "feedback2":"Zolaikha fait constamment preuve d'une solide éthique de travail, d'une attention aux détails et d'une approche proactive face à ses responsabilités. Elle est un excellent joueur d'équipe et est toujours prête à faire un effort supplémentaire pour s'assurer que les tâches sont accomplies selon les normes les plus élevées. Les compétences en communication de Zolaikha sont exemplaires et elle a une capacité naturelle à établir des relations avec ses collègues et ses clients. Elle est un atout pour toute équipe et son attitude positive et sa volonté de relever de nouveaux défis en font un membre précieux de toute organisation. Je n'hésite pas à recommander Zolaikha et je suis convaincu qu'elle continuera d'exceller dans sa carrière. N'hésitez pas à me contacter si vous avez besoin de plus amples informations.",
+        "name3":"Habiba Hatefi",
+        "feedback3":"J'ai eu le plaisir de collaborer avec Zulaikha sur quelques projets de développement Web et je suis toujours impressionné par son expertise technique et son dévouement à fournir des résultats de premier ordre. Zulaikha possède une incroyable capacité à transformer des idées complexes en sites Web fonctionnels et visuellement attrayants. Sa maîtrise des langages et des technologies de programmation, associée à son sens aigu du design, garantit que le produit final non seulement répond aux attentes, mais les dépasse. Ce qui distingue Zulaikha est son approche proactive de la résolution de problèmes. Elle relève les défis avec ingéniosité et s'engage à trouver des solutions optimales, ce qui en fait un atout inestimable pour toute équipe de développement. De plus, les excellentes compétences en communication de Zulaikha et sa nature collaborative font de travailler avec elle une expérience fluide.",
+        "name4":"Saghar Hazinyar",
+        "feedback4":"Zulikha est une fille serviable, gentille et travailleuse, surtout quand quelqu'un a besoin d'elle. Son travail acharné et son attitude agréable encouragent chacun à faire son devoir. Elle trouve le bon chemin avec une forte détermination. Je suis heureux d'être son partenaire dans ce voyage. Je suis sûr qu'un jour il deviendra l'un des meilleurs développeurs Web et fera la différence dans ce domaine.",
+        "name5":"Matin Noorzai",
+        "feedback5":"Zolaikha est une fille très gentille et pieuse. Je suis très proche d'elle. Elle a toujours une vision positive de chaque problème et s'efforce toujours d'atteindre ses objectifs. Et je suis sûr qu'elle réussira dans tous les domaines de sa vie. Elle est toujours prête à partager ses connaissances, à aider et à apporter des idées innovantes. Je recommande vivement Zulaikha pour ses compétences exceptionnelles en développement Web, son professionnalisme et son dévouement inébranlable à la production de produits de haute qualité. travail de qualité. Elle constituerait sans aucun doute un atout considérable pour toute organisation à la recherche d’un développeur Web talentueux.",
+        "posation1":"Ingénieur logiciel",
+        "posation2":"Concepteur Web",
+        "posation3":"Chargé de gestion de l'information",
+        "posation4":"Étudiante",
+        "posation5":"Étudiant"
+
+
+    },
+    "contact":{
+        "title":"Contact",
+        "para":"Si vous souhaitez m'envoyer votre retour ou tout autre message, vous pouvez me l'envoyer via le formulaire ci-dessous et je vous contacterai bientôt. De plus, si vous avez un projet et que vous souhaitez utiliser mes compétences pour améliorer les performances de votre projet et gagner du temps, contactez-moi.",
+        "label1":"votre nom",
+        "label2":"Votre e-mail",
+        "subject":"Sujette/Sujette",
+        "massage":"Message",
+        "heading1":"Emplacement:",
+        "heading2":"E-mail:",
+        "heading3":"Appel:",
+        "p1":"Rue Haqiqat, Post e Nuber Yak, Herat, Afghanistan",
+        "p2":"zolaikhanoorzai11@gmail.com",
+        "p3":"+93 792882715",
+        "button":"Envoyer"
+    },
+    "footer":{
+        "copyright":"droits d'auteur",
+        "website":"Portefeuille",
+        "p1":"Conçu par",
+        "p2":"Zolaikha"
+
+    },
+    "select":{
+        "option1":"anglaise",
+        "option2":"française" 
+    },
+    "Swal":{
+        "title": "Bon travail!",
+        "text": "Vous envoyez un massage avec succès !"
+    },
+    "warningSwal":{
+        "title": "Oops...",
+        "text": "votre message n'a pas été envoyé, veuillez vérifier votre connexion internet!"
+    }
+
+
+}

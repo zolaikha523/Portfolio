@@ -1,0 +1,197 @@
+{
+    "navbar":{
+        "text1":"Home",
+        "text2":"About",
+        "text3":"Resume",
+        "text4":"Portfolio",
+        "text5":"Features",
+        "text6":"Contact"
+    },
+    
+    "header":{
+        "title":"Zolaikha Noorzai"
+    },
+
+    "hero":{
+        "title":"Zolaikha Noorzai",
+        "string1":"Designer",
+        "string2":"Developer",
+        "string3":"Freelancer",
+        "string4":"Photographer",
+        "p":"I'm"
+    },
+
+    "about":{
+        "title":"About",
+        "para":"My name is Zolaikha, I am student in Computer Science in Network Department. I am currently studying the web in CTI and I have good skills in the wed and I can work as a freelancer.",
+        "heading3":"UI/UX Designer",
+        "headingEm":" Web Developer.",
+        "paraItalic":"Thes is my information about my birthday my website, phone, city and many more personal information",
+        "information":"Highly skilled and creative designer with 3 years of experience in the web design field. Proficient in utilizing various design software and techniques to create visually appealing and impactful designs. Adept at understanding clients' needs and translating them into unique and innovative concepts. Committed to delivering high-quality work within deadlines. Seeking an opportunity to contribute my expertise and enhance the design visions of a dynamic organization.",
+        "p1":"Age:",
+        "info1":"23",
+        "p2":"Degree:",
+        "info2":"bachlore",
+        "p3":"PhEmailone:",
+        "info3":"zolaikhanoorzai11@gmail.com",
+        "p4":"Freelance:",
+        "info4":"Available"
+       
+    },
+    "RightList":{
+        "p1":"Birthday:",
+        "info1":"4, May, 2000",
+        "p2":"Website:",
+        "info2":"www.portfolio.com",
+        "p3":"Phone:",
+        "info3":"0792882715",
+        "p4":"City:",
+        "info4":"Herat, Afghanistan"  
+     },
+    "fact":{
+        "title":"Facts", 
+        "para":"In this section, I briefly describe my achivements, projects that I have worked on, working hours that represent my work experiance in the field of programming, as well as peopel who are hardwoking adn successfui in my field, and I have a relationshep with them.I have specified.",
+        "p1":"my achevements in computer science",
+        "p2":" number of complated project",
+        "p3":" the houres i worked",
+        "p4":"hard worker with whome i am famlilar",
+        "heading1":"achivements",
+        "heading2":"Projects",
+        "heading3":"Hours Of Support",
+        "heading4":"Hard Workers"
+    },
+    "skills":{
+        "title":"Skills",
+        "para":"In this section, I have added the skills that i have in web development section , of course, i have other skills in sections such as ICDL,but i have perented them from being mentioned on this website because i have made this website specially for web development."
+
+    },
+    "resume":{
+        "title":"Resume",
+        "para":"In thes section, I have explained information about myself, in wich universities I have studied and wich departent I have studed, as well as my work experiance and in wich departent I have worked, and certificate with success and high average. I have obtained that in that in general it an extract from my CV",
+        "h4":"Zolaikha Noorzai",
+        "paraEm":"Innovative and deadline-driven Web Designer with 3+ years of experience designing and developing user-centered digital/print         marketing material from initial concept to final, polished deliverable.",
+        "h3":"Sumary",
+        "adress":"Nambar Yak, Herat, Afghanistan",
+        "phone":"0792882715",
+        "resumeTitle1":"Education",
+        "resumeTitle2":"Professional Experience"
+    },
+     "resumeData1":{
+        "hfour1":"Bachelor of Computer Sicence in Kabul Politachnic University",
+        "hfive1":"2019 - 2020",
+        "title1":"Engineering University in Kabul, Afghanistan",
+        "p1":"I was adle to successfully complete tow years of my studies in network engineering department of this university with many achievements and get good grades",
+        "hfour2":"Bachelor of Computer Sicence in Herat University",
+        "hfive2":"2020 - recent",
+        "title2":"university in Herat, Afghanistan",
+        "p2":"I was adle to successfully complete 1 years of my studies in network engineering department of this university with many achievements and get  an average grade of 87% , and also selected as intern at IT GEEKS of this university"
+    },
+    "resumeData2":{
+        "hfour1":"Intern at CTI ",
+        "hfive1":"2021 - Present",
+        "p1":"Code To Inspire",
+        "listOne1":"Teame work on a Car Store project and work with other student on their problems",
+        "listTow1":"work on portfolio project as midterm exam",
+        "listTree1":"Working hard to learn complex React issues and successfully complete exercise and projects",
+        "listFour1":"pass quizzes and exams successfully",
+        "hfour2":"student at ICDL Online Issentials ",
+        "hfive2":"2021 - Present",
+        "p2":"Social Development and Research for all U.S.A",
+        "listOne2":"successfully obtained a certificate with an average of 93% from the Browser & Outlook program",
+        "listTow2":"successfully obtained a certificate with an average of 98% from the Word program",
+        "listTree2":"successfully obtained a certificate with an average of 90% from the Excel program",
+        "listFour2":"successfully obtained a certificate with an average of 100% from the Powerpoint program"
+    },
+    "portfolio":{
+        "title":"Portfolio",
+        "para":"I have worked on many small and big projects that were for practice and learning porpose and i have mentioned six projects that i have worked on professionally, and i have shared the detail link and the GitHub link in their details modal."
+    },
+    "portfolioDetail":{
+        "description1":"Portfolio is a modern personal CV and portfolio HTML template. It's creative, minimal and clean design. iPortfolio can be used for many purposes starting from minimal portfolios, freelancers, graphic designers, illustrators, photographers and many others to showcase their work, projects, products, clients and offer services. Portfolio is fully responsive and looks great on all device screens providing best user experience to the end-user. It's built using the latest version of Bootstrap, HTML5, CSS3, jQuery and SASS. All files and code are well organized and well documented. You can quickly and easily customize the template to fit your needs.", 
+        "description2":"Eterna is an awesome responsive bootstrap website template, professionally designed for any kind websites. Eterna is coded carefully, all template files are organized and well structured so it's very customizable and developer/newbie friendly. Multiple pages are included in this template with lots of ready made sections. Eterna is a perfect template for business startups, web studio,digital agencies, marketing, design firm, tech entrepreneurs business etc.Eterna is 100% responsive and fits any device perfectly, creative, clean, unique and modern layout design!", 
+        "description3":"Medilab is a creative and modern medical website template. It's suitable for medical & health industry such as doctors, clinics, dentists, dental practice, dentist, dentistry, doctor, health, hospital and another medical & health service company. It comes with all the essential features to create a stunning medical website.MediLab is fully responsive and works on all screen sizes and devices such as mobile phones, tablets, laptops etc. It's easy to customize and edit. All the files are well structured, the source code is clean and documented.The pro version of the template also comes with a fully working PHP/Ajax appointment form script, that sends the submitted appointment form to your Email inbox ", 
+        "description4":"Portfolio is a modern personal CV and portfolio HTML template. It's creative, minimal and clean design. iPortfolio can be used for many purposes starting from minimal portfolios, freelancers, graphic designers, illustrators, photographers and many others to showcase their work, projects, products, clients and offer services. Portfolio is fully responsive and looks great on all device screens providing best user experience to the end-user. It's built using the latest version of Bootstrap, HTML5, CSS3, jQuery and SASS. All files and code are well organized and well documented. You can quickly and easily customize the template to fit your needs.", 
+        "description5":"Creative is a one page Bootstrap theme for creatives, small businesses, and other multipurpose use. A modern, flat design style works in unison with rich features and plugins making this theme a great boilerplate for your next Bootstrap based project!",
+        "description6":"Maxim is flat, modern and stylish bootstrap one page website template. It's suitable for freelancer, agency, corporate website like financial advisor, accountant, consulting firms, insurance, loan, tax help, creative people to showcase their profile, works and services.Maxim built with latest responsive bootstrap framework, latest trend style and coming with many awesome features. All files and code are well organized and well documented. You can quickly and easily customize and fine tune the template for creating your dream website.Maxim is fully responsive and works perfectly on all devises and screen sizes",
+        "Category":"Category",
+        "ProjectName":"Project Name",
+        "ProjectDate":"Project Date",
+        "projectUrl":"project Url",
+        "ProjectTitle":"This is an example of portfolio detail",
+        "projectInfo":"Project Information"
+
+    },
+    "feature":{
+        "title":"Features",
+        "para":"every website that is build has some feature, these feature can be verey important in attracting users and easy user interaction with the website.",
+        "iconboxTitle1":"Outstanding UX and UI",
+        "iconboxDescrition1":"Brilliant user experience (UX) and user interface (UI) design are among the most important web design rules and principles. Great businesses consider the user’s end experience from the very start of the web design process. ",
+        "iconboxTitle2":"Great Performance",
+        "iconboxDescrition2":"What goes on behind the scenes is just as important as what users see, so prioritizing performance is one of the most essential web design best practices to follow and our wbsites has high  Profarmance",
+        "iconboxTitle3":"clear purpose",
+        "iconboxDescrition3":"Without a clear purpose, your website will flop. And when we say purpose, we’re really talking about user intent. and websites that made for a spurpose are the most useful",
+        "iconboxTitle4":"Quality Content",
+        "iconboxDescrition4":"Your website is only as good as its content. The best websites publish user-centric content designed mainly for their readers, not SEO.and our websites has this feature",
+        "iconboxTitle5":"Best Load Time",
+        "iconboxDescrition5":"Load time is one of the other feature of websites, because if the website take a long time to load, the user may not want to see it again. therefor, one of the faeture of the website we create is that it takes less time to load.",
+        "iconboxTitle6":"Multi-dvice optimization",
+        "iconboxDescrition6":"Mobile traffic now makes up over half of all internet traffic. That’s why your website needs to be optimized across devices, which includes desktop, mobile, and tablet displays."
+
+    },
+    "testimonials":{
+        "title":"Testimonials",
+        "para":"Frinds and people I know have mentioned their feedback, position, and pictuers in this section. and these messages are very important to me, and these people have supported me in every aspect of my life and I thank them. and also I will use their experiance in my personal professional life and ",
+        "name1":"Ehsan Ehrari",
+        "feedback1":"Working with Zalaikha has been an absolute pleasure. Her dedication and hard work have truly set them apart as an exceptional student. She consistently demonstrates a strong work ethic, exceptional problem-solving skills, and a passion for learning that is truly commendable. Zalaikha approaches challenges with enthusiasm and a positive attitude, making her contributions invaluable to the learning environment. I am confident that she will continue to excel and achieve great things in the future. It's a privilege to have Zalaikha as part of our academic community.",
+        "name2":"Nadia Jami",
+        "feedback2":"Zolaikha consistently demonstrates a strong work ethic, attention to detail, and a proactive approach to her responsibilities. She is an excellent team player and is always willing to go the extra mile to ensure that tasks are completed to the highest standard.Zolaikha's communication skills are exemplary, and she has a natural ability to build rapport with colleagues and clients alike. She is an asset to any team and her positive attitude and willingness to take on new challenges make her a valuable member of any organization.I have no hesitation in recommending Zolaikha and I am confident that she will continue to excel in her career. Please feel free to contact me if you require any further information.",
+        "name3":"Habiba Hatefi",
+        "feedback3":"I have had the pleasure of collaborating with Zulaikha on a couple of web development projects, and I am consistently impressed by her technical expertise and dedication to delivering top-notch results. Zulaikha possesses a amazing ability to transform complex ideas into functional and visually appealing websites. Her proficiency in programming languages and technologies, coupled with her keen eye for design, ensures that the final product not only meets but exceeds expectations.What sets Zulaikha apart is her proactive approach to problem-solving. She tackles challenges with ingenuity and a commitment to finding optimal solutions, making her an invaluable asset to any development team. Moreover, Zulaikha's excellent communication skills and collaborative nature make working with her a seamless experience. ",
+        "name4":"Saghar Hazinyar",
+        "feedback4":"Zulikha is a helpful, kind and hardworking girl, especially when someone needs her.Her hard work and pleasant attitude make everyone encouraged to do their duty.She finds the right path with strong determination. I am happy to be his partner in this journey. I am sure that one day he will become one of the best web developers and make a difference in this field.",
+        "name5":"Matin Noorzai",
+        "feedback5":"Zolaikha is a very kind and pious girl. I am very close with her. She always has a positive outlook on every issue and always strives for her goals. And I am sure she will be successful in every part of her life.She is always willing to share knowledge, help, and contribute innovative ideas.I highly recommend Zulaikha for her exceptional web development skills, professionalism, and unwavering dedication to producing high-quality work. She would undoubtedly be a tremendous asset to any organization seeking a talented web developer.",
+        "posation1":"Software Engeneer",
+        "posation2":"Web Designer",
+        "posation3":"Information managment officer",
+        "posation4":"Student",
+        "posation5":"Student"
+
+    },
+    "contact":{
+        "title":"Contact",
+        "para":"If you want to send me your feedback or any message, you can send it to me in the form below and I will contact you soon. Also, if you have any project and you want use my skills to high your project performance and save your time contact me.",
+        "label1":"Your Name",
+        "label2":"Your Email",
+        "subject":"Subject",
+        "massage": "Message",
+        "heading1":"Location:",
+        "heading2":"Email:",
+        "heading3":"Call:",
+        "p1":"Haqiqat Street, Post e Nuber Yak, Herat, Afghanistan",
+        "p2":"zolaikhanoorzai11@gmail.com",
+        "p3":"+93 792882715",
+        "button":"Send"
+    },
+    "footer":{
+        "copyright":"Copyright",
+        "website":"Portfolio",
+        "p1":"Designed by",
+        "p2":"Zolaikha"
+
+    },
+    "select":{
+        "option1":"English",
+        "option2":"French" 
+    },
+    "Swal":{
+        "title": "Good job!",
+        "text": "You send massage successfully!"
+    },
+    "warningSwal":{
+        "title": "Oops...",
+        "text": "your massage is not send, please check your internet conection!"
+    }
+
+
+}

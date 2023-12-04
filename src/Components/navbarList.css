@@ -1,0 +1,41 @@
+/*--------------------------------------------------------------
+# Navigation Menu ul
+--------------------------------------------------------------*/
+.navbar>ul>li {
+    position: relative;
+    white-space: nowrap;
+  }
+  
+  .navbar a,
+  .navbar a:focus {
+    display: flex;
+    align-items: center;
+    color: #a8a9b4;
+    padding: 12px 15px;
+    margin-bottom: 8px;
+    transition: 0.3s;
+    font-size: 15px;
+  }
+  
+  .navbar a i,
+  .navbar a:focus i {
+    font-size: 24px;
+    padding-right: 8px;
+    color: #6f7180;
+  }
+  
+  .navbar a:hover,
+  .navbar .active,
+  .navbar .active:focus,
+  .navbar li:hover>a {
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  .navbar a:hover i,
+  .navbar .active i,
+  .navbar .active:focus i,
+  .navbar li:hover>a i {
+    color: #149ddd;
+  }
+  
